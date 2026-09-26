@@ -316,13 +316,7 @@ export default function App() {
         </div>
       </main>
 
-      {/* Footer Branding */}
-      <footer className="text-center py-6 text-xs text-slate-500">
-        <div className="flex items-center justify-center gap-1.5">
-          <Sparkles className="w-3.5 h-3.5 text-indigo-600" />
-          <span>TaskFlow • Built with React & Tailwind CSS</span>
-        </div>
-      </footer>
+      
 
       {/* Task Creation / Edit Modal */}
       <TaskModal
