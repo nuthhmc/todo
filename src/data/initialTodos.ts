@@ -2,7 +2,7 @@ import type { Todo } from '../types/todo';
 
 export const initialTodos: Todo[] = [
   {
-    id: 'task-1',
+    id: 'task',
     title: 'Review wireframes for client onboarding redesign',
     description: 'Ensure Figma flows match the updated authentication spec and feedback.',
     completed: false,
